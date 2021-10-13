@@ -6,7 +6,9 @@
  * Student ID: 532143
 */
 
-/* This code was provided by teachers during classes */
+/* This code was provided by teachers during classes
+*  Credits to Professors Danelutto and Torquati
+*/
 
 #include <iostream>
 #include <mutex>
